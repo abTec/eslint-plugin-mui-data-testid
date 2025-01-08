@@ -1,0 +1,38 @@
+{
+    "name": "eslint-plugin-mui-data-testid",
+    "version": "1.0.0",
+    "main": "lib/index.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ESLint",
+        "ESLint Plugin",
+        "MUI",
+        "React",
+        "Testing",
+        "Linting",
+        "Code Quality",
+        "JSX",
+        "Static Analysis"
+    ],
+    "author": "",
+    "description": "This ESLint plugin helps ensure that React MUI components have the required testId attribute.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/abtec/eslint-plugin-mui-data-testid"
+    },
+    "bugs": {
+        "url": "https://github.com/abtec/eslint-plugin-mui-data-testid/issues"
+    },
+    "homepage": "https://github.com/abtec/eslint-plugin-mui-data-testid#readme",
+    "dependencies": {
+        "@babel/parser": "^7.26.3",
+        "@babel/eslint-parser": "^7.25.9",
+        "eslint": "^8.57.0"
+    },
+    "peerDependencies": {
+        "eslint": ">=8.0.0"
+    }
+}
