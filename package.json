@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-mui-data-testid",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "main": "lib/index.js",
     "license": "MIT",
     "scripts": {
@@ -28,11 +28,11 @@
     },
     "homepage": "https://github.com/abtec/eslint-plugin-mui-data-testid#readme",
     "dependencies": {
-        "@babel/parser": "^7.26.3",
-        "@babel/eslint-parser": "^7.25.9",
-        "eslint": "^8.57.0"
+        "@babel/parser": "^7.9.0",
+        "@babel/eslint-parser": "^7.28.6",
+        "eslint": "^9.39.3"
     },
     "peerDependencies": {
-        "eslint": ">=8.0.0"
+        "eslint": ">=9.0.0"
     }
 }
